@@ -1,1 +1,1 @@
-Repositório onde ponho experimentos práticos em Python.
+Repositório onde ponho experimentos práticos em Python. =)
